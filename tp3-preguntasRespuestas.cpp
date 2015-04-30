@@ -1,5 +1,7 @@
 /*
-
+Alumna: Luciana Napolillo
+Descripcion: Juego de preguntas y respuestas
+Fecha modificacion: 29/04/2015
 */
 
 #include <iostream>
