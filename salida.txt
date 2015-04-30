@@ -1,0 +1,82 @@
+************************** Elegi una categoria! *************************
+**                       1- Musica                                     **
+**                       2- Ciencias                                   **
+**                       3- Historia                                   **
+**                                                                     **
+**                       0- Salir                                      **
+*************************************************************************
+                         ▶ 1
+
+
+Cual es el nombre de la quinta nota en la escala musical?
+A- Si
+B- Mi
+C- Sol
+D- Re
+   ▶ c
+
+Respuesta correcta!! :)
+
+A que banda pertenece el album OK Computer?
+A- Radiohead
+B- Metallica
+C- Arctic Monkeys
+D- Rammstein
+   ▶ a
+
+Respuesta correcta!! :)
+
+Cuantos tiempos representa una redonda?
+A- 6
+B- 3
+C- 4
+D- 2
+   ▶ c
+
+Respuesta correcta!! :)
+Categoria finalizada, puntaje: 3
+
+Queres seguir jugando? S/N: s
+************************** Elegi una categoria **************************
+**                       1- Musica                                     **
+**                       2- Ciencias                                   **
+**                       3- Historia                                   **
+**                                                                     **
+**                       0- Salir                                      **
+*************************************************************************
+                         ▶ 2
+
+
+Cuál de las siguientes enfermedades ataca al higado?
+A- Hepatitis
+B- Diabetes
+C- Artrósis
+D- Cifoescoliosis
+   ▶ d
+
+Respuesta incorrecta!! :(
+
+Qué cambio de estado ocurre en la sublimación?
+A- De sólido a líquido
+B- De sólido a gaseoso
+C- De gaseoso a líquido
+D- De líquido a solido
+   ▶ b
+
+Respuesta correcta!! :)
+
+Como se llama el grafico que representa a una ecuación de segundo grado?
+A- Recta
+B- Parabola
+C- Hiperbola
+D- Vector
+   ▶ d
+
+Respuesta incorrecta!! :(
+Categoria finalizada, puntaje: 1
+
+Queres seguir jugando? S/N: n
+
+
+Puntaje total: 4
+Chau!!
